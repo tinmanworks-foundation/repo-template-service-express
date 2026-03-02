@@ -14,6 +14,13 @@ Generalized backend service template using Node.js, TypeScript, and Express.
 - A baseline service skeleton with health checks, structured logging, and OpenAPI output.
 - Includes optional worker placeholder for asynchronous processing.
 
+## Use This Template
+
+1. Click **Use this template** on GitHub to create a new repository.
+2. Rename package/module identifiers and update ownership metadata.
+3. Review `.env.example` and update environment configuration for your target project.
+4. Run validation and CI checks before first release.
+
 ## Quickstart
 
 ### Prerequisites
